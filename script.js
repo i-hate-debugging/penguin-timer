@@ -1,5 +1,5 @@
 // Set the target date: August 2nd, 2025 at 1:00 PM PST
-const targetDate = new Date('August 2, 2025 13:00:00 PST').getTime();
+const targetDate = new Date('August 2, 2025 12:00:00 PST').getTime();
 
 // Update the countdown every second
 const countdown = setInterval(function() {
